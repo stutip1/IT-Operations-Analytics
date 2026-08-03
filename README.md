@@ -1,8 +1,5 @@
 # IT-Operations-Analytics
 SQL and Tableau project analyzing IT incidents, access governance, and audit compliance through interactive dashboards
-# IT Operations Analytics Platform
-
-# IT Operations Analytics Platform
 
 ## Overview
 Developed an end-to-end IT Operations Analytics solution using SQL and Tableau to analyze operational data across Incident Management, Access Governance, and Audit & Compliance.
