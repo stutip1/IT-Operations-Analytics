@@ -115,3 +115,17 @@ Monitors audit findings, severity distribution, violation types, department-leve
 - IT Operations Analytics
 - Executive Reporting
 - Root Cause Analysis
+
+## Dashboards
+
+### IT Incident Analysis Dashboard
+
+![1.png)
+
+### Access Management Dashboard
+
+![2.png)
+
+### Audit & Compliance Dashboard
+
+![3.png)
