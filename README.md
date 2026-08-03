@@ -2,56 +2,39 @@
 SQL and Tableau project analyzing IT incidents, access governance, and audit compliance through interactive dashboards
 # IT Operations Analytics Platform
 
+# IT Operations Analytics Platform
+
 ## Overview
+Developed an end-to-end IT Operations Analytics solution using SQL and Tableau to analyze operational data across Incident Management, Access Governance, and Audit & Compliance.
 
-Developed an end-to-end analytics solution to monitor IT operations across Incident Management, Access Governance, and Audit & Compliance using SQL and Tableau.
+The project transforms raw operational datasets into interactive dashboards that help IT leaders monitor service performance, identify security risks, evaluate access governance, and track compliance findings.
+## Business Problem
+Organizations often manage incidents, user access requests, access reviews, and audit findings across multiple systems. Without centralized reporting, identifying operational bottlenecks and compliance risks becomes challenging.
 
-The project analyzes four operational datasets, answers business questions using SQL, and presents interactive dashboards that support operational monitoring and executive decision-making.
-
----
-
-## Technologies
+This project consolidates multiple operational datasets into interactive dashboards, enabling stakeholders to monitor performance, evaluate governance processes, and support data-driven decision-making.
+## Technologies Used
 
 - SQL
 - SQLite
 - Tableau
 - Microsoft Excel
 - GitHub
+## Project Architecture
 
----
+Raw CSV Data
 
-## Dashboards
+↓
 
-### 1. IT Incident Analysis Dashboard
+SQL Analysis
 
-Provides visibility into incident trends, SLA performance, and operational efficiency.
+↓
 
-### 2. Access Management Dashboard
+Business Questions & KPIs
 
-Analyzes access requests, approval timelines, and governance reviews.
+↓
 
-### 3. Audit & Compliance Dashboard
+Interactive Tableau Dashboards
 
-Monitors audit findings, compliance risks, and remediation status.
+↓
 
----
-
-## Skills Demonstrated
-
-- SQL Querying
-- KPI Development
-- Data Validation
-- Tableau Dashboard Design
-- Business Analysis
-- Data Visualization
-- Executive Reporting
-
----
-
-## Repository Structure
-
-
-datasets/
-sql/
-tableau/
-dashboards/
+Business Insights & Recommendations
