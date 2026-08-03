@@ -102,3 +102,16 @@ Provides visibility into access request trends, approval efficiency, review comp
 ## 3. Audit & Compliance Dashboard
 
 Monitors audit findings, severity distribution, violation types, department-level risks, remediation status, and compliance KPIs.
+
+# Skills Demonstrated
+
+- SQL
+- Data Validation
+- Data Cleaning
+- KPI Development
+- Business Analysis
+- Tableau Dashboard Development
+- Data Visualization
+- IT Operations Analytics
+- Executive Reporting
+- Root Cause Analysis
