@@ -120,12 +120,12 @@ Monitors audit findings, severity distribution, violation types, department-leve
 
 ### IT Incident Analysis Dashboard
 
-![1.png)
+![IT Incident Analysis Dashboard](dashboards/1.png)
 
 ### Access Management Dashboard
 
-![2.png)
+![Access Management Dashboard](dashboards/2.png)
 
 ### Audit & Compliance Dashboard
 
-![3.png)
+![Audit and Compliance Dashboard](dashboards/3.png)
