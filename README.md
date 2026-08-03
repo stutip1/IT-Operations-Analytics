@@ -2,23 +2,34 @@
 SQL and Tableau project analyzing IT incidents, access governance, and audit compliance through interactive dashboards
 
 ## Overview
-Developed an end-to-end IT Operations Analytics solution using SQL and Tableau to analyze operational data across Incident Management, Access Governance, and Audit & Compliance.
+This project demonstrates the design and development of an end-to-end IT Operations Analytics solution using SQL and Tableau.
+The solution analyzes operational data across three key business functions:
+- IT Incident Management
+- Access Governance
+- Audit & Compliance
 
-The project transforms raw operational datasets into interactive dashboards that help IT leaders monitor service performance, identify security risks, evaluate access governance, and track compliance findings.
+Using SQL for data analysis and Tableau for visualization, the project transforms operational datasets into interactive dashboards that help stakeholders monitor performance, identify risks, and support data-driven decision-making.
 ## Business Problem
-Organizations often manage incidents, user access requests, access reviews, and audit findings across multiple systems. Without centralized reporting, identifying operational bottlenecks and compliance risks becomes challenging.
+IT organizations manage operational data across multiple systems, including incident tickets, user access requests, access reviews, and audit findings. Without centralized reporting, it is difficult to identify service bottlenecks, monitor governance processes, and detect compliance risks.
 
-This project consolidates multiple operational datasets into interactive dashboards, enabling stakeholders to monitor performance, evaluate governance processes, and support data-driven decision-making.
+This project consolidates multiple operational datasets into a unified analytics platform that provides operational visibility through interactive dashboards and key performance indicators (KPIs).
+## Project Objectives
+- Analyze operational datasets using SQL
+- Develop business KPIs
+- Design interactive Tableau dashboards
+- Monitor incident trends and SLA performance
+- Evaluate access governance
+- Track audit findings and compliance risks
+- Generate business insights and recommendations
 ## Technologies Used
-
 - SQL
 - SQLite
 - Tableau
 - Microsoft Excel
 - GitHub
-## Project Architecture
+## Project Workflow
 
-Raw CSV Data
+CSV Datasets
 
 ↓
 
@@ -35,3 +46,16 @@ Interactive Tableau Dashboards
 ↓
 
 Business Insights & Recommendations
+
+---
+
+# Datasets
+
+The project analyzes four datasets representing different IT operational processes.
+
+| Dataset | Description |
+|----------|-------------|
+| **Incidents** | Contains IT incident information including category, department, platform, priority, resolution time, and SLA status. |
+| **Access Requests** | Tracks user access requests, requested roles, approval time, department, and platform. |
+| **Access Reviews** | Contains periodic access review information including completion status and review outcomes. |
+| **Audit** | Includes audit findings, severity, violation type, platform, remediation status, and department. |
