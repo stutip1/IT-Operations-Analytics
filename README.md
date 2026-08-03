@@ -86,3 +86,19 @@ The project includes SQL queries for:
 - Open audit findings
 - High-severity audit findings
 - Access review completion rate
+
+---
+
+# Tableau Dashboards
+
+## 1. IT Incident Analysis Dashboard
+
+Analyzes operational performance through incident trends, SLA compliance, average resolution time, platform distribution, and department-level incident analysis.
+
+## 2. Access Management Dashboard
+
+Provides visibility into access request trends, approval efficiency, review completion, requested roles, and expired access.
+
+## 3. Audit & Compliance Dashboard
+
+Monitors audit findings, severity distribution, violation types, department-level risks, remediation status, and compliance KPIs.
