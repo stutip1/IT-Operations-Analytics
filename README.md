@@ -59,3 +59,30 @@ The project analyzes four datasets representing different IT operational process
 | **Access Requests** | Tracks user access requests, requested roles, approval time, department, and platform. |
 | **Access Reviews** | Contains periodic access review information including completion status and review outcomes. |
 | **Audit** | Includes audit findings, severity, violation type, platform, remediation status, and department. |
+
+# SQL Analysis
+
+SQL was used throughout the project to validate data quality, answer business questions, and calculate key performance indicators (KPIs).
+
+### Business Questions
+
+- Which incident categories occur most frequently?
+- Which platform generates the highest number of incidents?
+- What is the average incident resolution time?
+- Which departments generate the most incidents?
+- Which roles are requested most often?
+- How long do access approvals take?
+- Which audit findings are most common?
+- Which departments have the highest compliance risks?
+
+### KPI Development
+
+The project includes SQL queries for:
+
+- Total incidents
+- SLA breach rate
+- Average resolution time
+- Average approval time
+- Open audit findings
+- High-severity audit findings
+- Access review completion rate
